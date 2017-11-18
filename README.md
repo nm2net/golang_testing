@@ -1,6 +1,8 @@
 
 # Testing with Go - examples
 
+## Presentation
+https://docs.google.com/presentation/d/1t_RgWzpIm_juVNdw42rhhG7P-ZYbynGoQ8Vj-sGJFrU/
 
 ## Coverage
 ```
